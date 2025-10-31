@@ -10,13 +10,22 @@ Although I did not pass the full exam, I achieved **full marks for the programmi
 
 ---
 
-#Task Screenshots in: 
+#Task Screenshots: 
 ![OOP Task Screenshot](OOP2025%20-%20task%201%20-%20Geometrie/OOP2025%20-%20task1%20-%20Geometrie.png)
 
 
 > *This screenshot shows the original geometry programming task from the FernUniversität in Hagen (Course 63016).*  
 > The task itself belongs to **FernUniversität in Hagen** and is shown here only for educational and illustrative purposes.  
 > The **Java solution** in this repository was written by **Michael Kain** and received *full marks for the programming section*.
+
+
+#Evaluation Screenshot:
+![OOP Evaluation Screenshot](OOP2025%20-%20task%201%20-%20Geometrie/OOP2025%20-%20task%201-5%20-%20Evaluation%20%26%20Score.png)
+
+
+> Official evaluation sheet from *FernUniversität in Hagen* (Course 63016).  
+> I received **full marks for the programming section**, demonstrating strong practical Java and OOP skills.  
+> The image is shown for transparency and educational documentation purposes only.
 
 ---
 
